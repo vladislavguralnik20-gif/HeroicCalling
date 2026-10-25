@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "heroicalling",
+        "pack_format": 15,
+        "description": "Here you find unusually heroes!",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}

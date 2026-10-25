@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "Vlady"
+    ],
+    "environment": "*",
+    "id": "heroicalling",
+    "version": "1.0.0",
+    "name": "Heroic Calling",
+    "description": "Here you find unusually heroes!",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

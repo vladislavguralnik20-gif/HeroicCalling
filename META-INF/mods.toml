@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="heroicalling"
+version="1.0.0"
+logoFile = "logo.png"
+logoBlur = false
+displayName="Heroic Calling"
+description='''
+Here you find unusually heroes!
+'''
+
+[[dependencies.heroicalling]]
+modId = "palladium"
+mandatory = true
+versionRange = "[4.5.9,)"
+ordering = "NONE"
+side = "BOTH"
